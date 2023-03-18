@@ -8,6 +8,7 @@ A simple initial build for a PHP project.
 - PHPMyAdmin
 
 Project directory: ./src
+
 Web-site directory: ./src/public
 
 ## Quick start
