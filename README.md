@@ -1,4 +1,4 @@
-# PHP Docker workspace
+# PHP-Docker Workspace
 
 A simple initial build for a PHP project.
 
